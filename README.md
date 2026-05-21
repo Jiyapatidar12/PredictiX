@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PredictiX — Medical Disease Prediction Platform
 
 PredictiX ek full-stack web application hai jo machine learning models ka use karke 4 major diseases predict karta hai. Users apna medical data ya images upload karte hain aur prediction ke saath PDF report generate kar sakte hain.
@@ -256,3 +257,7 @@ Backend API: `http://localhost:8000`
 ## Author
 
 **Rhitam Chaudhury**
+=======
+# PredictiX
+PredictiX is an AI-powered predictive analytics platform that helps businesses analyze data, forecast trends, and make smarter decisions using advanced machine learning and data intelligence.
+>>>>>>> 4e0d6e4f6930b7eb340d6348229d7d2c4acf97c7
